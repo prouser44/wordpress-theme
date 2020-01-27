@@ -10,10 +10,45 @@
 get_header();
 ?>
 
+<head>
+<style>
+body{
+	background-color: black;
+}
+.site-header{
+	font-size: x-large;
+	font-wieght: bold;
+}
+h1,p { 
+	color: white;
+}
+.page-content{
+	padding-top: 100px;
+	padding-bottom: 250px;	
+	padding-left: 30%;
+	text-align: center;
+}
+.page-title{
+	text-align: center;
+	padding-left: 30%;
+}
+.search-form{
+	text-align: center;
+}
+.image {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    margin:-60px 0 0 -60px;
+}
+</style>
+</head>
+
+
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
-			<section class="error-404 not-found">
+			<section class="error">
 				<header class="page-header">
 					<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'cheezeit' ); ?></h1>
 				</header><!-- .page-header -->
