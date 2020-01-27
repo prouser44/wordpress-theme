@@ -57,7 +57,7 @@ h1,p {
 				</header><!-- .page-header -->
 				
 				<div class="page-content">
-				<img class="image" src= "/aaumiller66/wordpress/wp-content/themes/hashtag/assets/nothing.jpeg">
+				<img class="image" src= "/epiper67/wordpress/wp-content/themes/wordpress-theme/assets/">
 				<br>
 				<br>
 				<br>
