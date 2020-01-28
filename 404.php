@@ -49,6 +49,9 @@ h1,p {
 				
 				<div class="page-content">
 				<img class="image" src= "/epiper67/wordpress/wp-content/themes/wordpress-theme/assets/spaget.jpeg" height="900" width="1100">
+				<p>
+					His noodliness has heard your prayers, but chose not to respond. Use logic, and check for errors. You sure that url is right?
+				</p>
 
 				</div><!-- .page-content -->
 			</section><!-- .error-404 -->
