@@ -8,7 +8,6 @@
  * @package hashtag
  */
 
-get_header();
 ?>
 
 <head>
@@ -46,7 +45,7 @@ h1,p {
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
-			<section class="error">
+			<section class="error-404">
 				<header class="page-header">
 					<h1 class="page-title"><?php esc_html_e( 'Error Message: 404', 'hashtag' ); ?></h1>
 				</header><!-- .page-header -->
