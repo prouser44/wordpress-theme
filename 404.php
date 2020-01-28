@@ -33,12 +33,6 @@ h1,p {
 	padding-left: 30%;
 }
 
-.image {
-    position: relative;
-    top: 10%;
-    left: 10%;
-    margin:-60px 0 0 -60px;
-}
 </style>
 </head>
 
@@ -51,7 +45,7 @@ h1,p {
 				</header><!-- .page-header -->
 				
 				<div class="page-content">
-				<img class="image" src= "/epiper67/wordpress/wp-content/themes/wordpress-theme/assets/spaget">
+				<img src= "/epiper67/wordpress/wp-content/themes/wordpress-theme/assets/spaget.jpeg">
 
 				</div><!-- .page-content -->
 			</section><!-- .error-404 -->
