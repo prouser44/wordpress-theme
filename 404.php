@@ -23,21 +23,17 @@ h1,p {
 	color: white;
 }
 .page-content{
-	padding-top: 100px;
-	padding-bottom: 250px;	
-	padding-left: 30%;
 	text-align: center;
 }
 .page-title{
 	text-align: center;
-	padding-left: 30%;
 }
 
 .image {
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-  	width: 50%;
+  	width: 99%;
 }
 
 </style>
