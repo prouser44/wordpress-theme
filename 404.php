@@ -52,7 +52,7 @@ h1,p {
 				</header><!-- .page-header -->
 				
 				<div class="page-content">
-				<img class="image" src= "/epiper67/wordpress/wp-content/themes/wordpress-theme/assets/spaget.jpeg">
+				<img class="image" src= "/epiper67/wordpress/wp-content/themes/wordpress-theme/assets/spaget.jpeg" height="1920" width="1080">
 
 				</div><!-- .page-content -->
 			</section><!-- .error-404 -->
