@@ -80,6 +80,15 @@ if ( ! function_exists( 'cheezeit_setup' ) ) :
 			'flex-height' => true,
 		) );
 
+		add_theme_support('custom-header', apply_filters('cheezeit_custom_header_args', array(
+            'default-image'  => '',
+            'default-text-color'   => '000000',
+            'width'    => 1333,
+            'height'   => 250,
+            'flex-height'   => true,
+            'wp-head-callback'   => 'cheezeit_header_style'
+        )));
+
 		add_theme_support( 'post-formats', array ( 'aside', 'gallery', 'quote', 'image', 'video' ) );
 	}
 endif;
